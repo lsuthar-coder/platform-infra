@@ -1,0 +1,7 @@
+aws_region                         = "ap-south-1"
+domain                             = "lsuthar.in"
+cloudflare_zone_id                 = "your-cloudflare-zone-id"
+civo_firewall_id                   = "your-civo-firewall-id"
+azure_github_service_connection_id = "your-azure-service-connection-id"
+ingress_ip                         = "your-nginx-ingress-lb-ip"
+audio_service_ip                   = "your-ec2-elastic-ip"

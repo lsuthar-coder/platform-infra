@@ -1,0 +1,12 @@
+# Terraform state (contains secrets)
+**/.terraform/
+**/*.tfstate
+**/*.tfstate.backup
+**/*.tfplan
+**/.terraform.lock.hcl
+
+# Vars file (contains sensitive values)
+**/terraform.tfvars
+
+# OS
+.DS_Store
